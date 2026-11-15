@@ -15,6 +15,7 @@ data/splits/*
 !data/splits/.gitkeep
 artifacts/
 checkpoints/
+models/*.task
 *.mp4
 *.avi
 *.mov
