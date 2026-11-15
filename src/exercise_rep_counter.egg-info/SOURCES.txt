@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/exercise_rep_counter/__init__.py
+src/exercise_rep_counter/config.py
+src/exercise_rep_counter.egg-info/PKG-INFO
+src/exercise_rep_counter.egg-info/SOURCES.txt
+src/exercise_rep_counter.egg-info/dependency_links.txt
+src/exercise_rep_counter.egg-info/requires.txt
+src/exercise_rep_counter.egg-info/top_level.txt
+tests/test_config.py

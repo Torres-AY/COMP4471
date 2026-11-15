@@ -1,0 +1,22 @@
+# Core numerical and data tooling
+numpy>=1.26,<3
+pandas>=2.2,<3
+scipy>=1.12,<2
+scikit-learn>=1.4,<2
+
+# Video and pose extraction
+opencv-python-headless>=4.9,<6
+mediapipe>=0.10.14,<0.11
+
+# Temporal model training
+torch>=2.2,<3
+
+# Evaluation and experiments
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+tqdm>=4.66,<5
+pyyaml>=6,<7
+
+# Notebook and validation tooling
+jupyterlab>=4,<5
+pytest>=8,<9

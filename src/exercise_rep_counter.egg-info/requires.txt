@@ -1,0 +1,17 @@
+numpy<3,>=1.26
+pandas<3,>=2.2
+scipy<2,>=1.12
+scikit-learn<2,>=1.4
+opencv-python-headless<6,>=4.9
+mediapipe<0.11,>=0.10.14
+torch<3,>=2.2
+matplotlib<4,>=3.8
+seaborn<1,>=0.13
+tqdm<5,>=4.66
+pyyaml<7,>=6
+
+[dev]
+pytest<9,>=8
+
+[notebooks]
+jupyterlab<5,>=4
